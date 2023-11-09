@@ -8,7 +8,7 @@ Parameters:
     Type: String
     Default: "us-east-1"
   StackName:
-    Description: Name of the CloudFormation Stack of the main scheduler
+    Description: Name of the CloudFormation Stack of the main  scheduler
     Type: String
     Default: "StackName"
 Resources:
